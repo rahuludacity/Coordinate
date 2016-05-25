@@ -1,4 +1,4 @@
-package com.coordinate.core.framework;
+package com.coordinate.framework;
 
 import android.support.v7.app.AppCompatActivity;
 
