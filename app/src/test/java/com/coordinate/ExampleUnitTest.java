@@ -1,4 +1,4 @@
-package com.example.abhishekkunchakarra.coordinate;
+package com.coordinate;
 
 import org.junit.Test;
 

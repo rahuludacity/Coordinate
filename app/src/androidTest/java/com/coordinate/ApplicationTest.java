@@ -1,4 +1,4 @@
-package com.example.abhishekkunchakarra.coordinate;
+package com.coordinate;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
